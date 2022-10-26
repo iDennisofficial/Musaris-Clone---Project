@@ -1,0 +1,279 @@
+/*========================================== MUSARIS LOGIN PAGE START===============================================*/
+#heading fieldset
+{
+	margin: 200px;
+}
+
+#heading legend
+
+{
+	text-align: center;
+	font-weight: bold;
+    color: blue;
+	
+}
+#heading p
+{
+	text-align: center;
+}
+
+/*========================================== MUSARIS LOGIN PAGE  END===============================================*/
+
+
+/*========================================== MUSARIS HOME PAGE START ===============================================*/
+
+/*====================== THE BODY ========================*/
+body {
+	margin: 0px;
+	font-family: verdana, Georgia, serif;
+	font-size: 14px;
+	/*background-color: blue;*/
+	/*background: linear-gradient( to right bottom, blue , green , yellow 25%, blue  );*/
+	/*background: linear-gradient( to left bottom, blue, white, blue );*/
+	/*background-image: url(background.svg);
+	background-size: auto;*/
+	 /*blue, yellow, black, yellow, green, blue*/
+	 /*red, orange, yellow, green, black, indigo, violet*/
+}
+
+
+/*====================== THE HEAD ========================*/
+
+#header 
+{
+	
+	margin-right: 10px;
+    margin-left: 0px;
+    margin-top: 10px;
+	height: 120px;
+	border-radius: 5px;
+	/*background-image: url(geti1.jpg);*/
+	
+}
+
+#header img
+{
+	max-height: 100%;
+	max-width: 100%;
+	float: left;
+}
+
+ 
+h1 
+{  
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+}
+
+h2 
+{
+
+	text-align: center;
+	font-weight: bold;
+}
+
+
+/*====================== THE NAVIGATION BAR ===================*/
+
+#navbar 
+{
+	margin-right: 10px;
+	margin-left: 275px;
+	margin-top: 10px;
+	height: 35px;
+	border-radius: 5px;
+	border: 1px solid black;
+	background: lightblue;
+}
+
+#navbar ul{
+	list-style: none;
+	padding: 0;
+	margin: 10;
+	
+}
+#navbar ul li
+{
+	display: inline;
+	padding-bottom:  5px;
+	padding-top: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+
+#navbar ul li a 
+{
+	
+	text-align: left;
+	color: blue;
+	border-radius: 5px;
+	border: 2px solid blue;
+	width: 5px;
+	
+}
+
+/*====================== THE MAIN CONTENT ========================*/
+
+.main {
+margin-right: 10px;
+margin-left: 275px;
+margin-top: 10px;
+border-radius: 5px;
+padding: 0;
+font-size: 110%;
+border: 1px solid black;
+height: 900px;
+border-radius: 10px;
+
+}
+
+#introduction
+{
+	
+	color: blueviolet;
+	font-size: small;
+	
+}
+
+#intro2
+{
+
+	color: red;
+	font-size: small;
+}
+
+/*====================== THE SIDELEFT ========================*/
+
+#sideleft {
+margin-right: 10px;
+margin-left: 10px;
+margin-top: 10px;
+padding: 0;
+font-size: 105%;
+border: 1px solid black;
+height: 900px;
+float:  left;
+width: 260px ;
+border-radius: 10px;
+
+}
+
+#sideleft ul {
+
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+
+#sideleft ul li a {
+
+	text-decoration: none;
+	font-family: Georgia, "Times New Roman", serif;
+	background-color: blue;
+	display: block;
+	margin: 2px;
+	padding: 5px;
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+	color: white;
+
+}
+
+a:hover
+{
+	background-color: black;
+	color: white;
+}
+
+#innerbutton ul li a 
+{
+	margin-left: 15px;
+}
+
+
+#sideleft ul li a:hover
+{
+background-color: black;
+	color: white;	
+}
+
+
+/*====================== THE FOOTER ========================*/
+
+#footer {
+	
+	margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 2px;
+	padding-bottom: 23px;
+	padding-top: 2px;
+	height: 80px;
+	border-radius: 10px;
+	border: 1px solid black;
+	/*background-image: url(geti1.jpg);*/
+	
+}
+
+h3
+{
+	
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+#footer p 
+{
+	
+	text-align: center;
+	color: black;
+}
+
+/*========================================== MUSARIS HOME PAGE END ===============================================*/
+
+/*========================================== MY INFORMATION PAGE START ===============================================*/
+
+.main fieldset
+{
+	border: 1px solid gray;
+	border-radius: 5px;
+	margin: 5px;
+	font-size: smaller;
+	color: blue;
+	
+}
+
+.main table tr td a
+{
+	text-decoration: none;
+	color: blue;
+}
+
+.main table tr span 
+{
+	text-align: center;
+	display: block;
+	width: auto;
+	height: auto;
+	margin: 0px;
+}
+
+#picha
+{
+	border: 1px solid black;
+	border-radius: 1px;
+	width: 50;
+	height: 50;
+}
+
+
+
+
+
